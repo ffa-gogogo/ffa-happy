@@ -1,11 +1,6 @@
 import React from "react";
-import heart from "./heart.html";
 import "./index.less";
 
 export default function Index() {
-  return (
-    <div className="heart-content">
-      <div dangerouslySetInnerHTML={{ __html: heart }} className="heart-box"></div>
-    </div>
-  );
+  return <div className="heart-content">asdfasdf啊撒旦法收到发大水发生代发阿萨法打算 </div>;
 }
