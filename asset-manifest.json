@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/ffa-happy/static/css/main.1ec13702.chunk.css",
-    "main.js": "/ffa-happy/static/js/main.05e30862.chunk.js",
-    "runtime-main.js": "/ffa-happy/static/js/runtime-main.71eacfba.js",
-    "static/js/2.1138bdb3.chunk.js": "/ffa-happy/static/js/2.1138bdb3.chunk.js",
-    "static/js/3.3549a5bd.chunk.js": "/ffa-happy/static/js/3.3549a5bd.chunk.js",
+    "main.css": "/ffa-happy/static/css/main.edc43473.chunk.css",
+    "main.js": "/ffa-happy/static/js/main.881d41eb.chunk.js",
+    "runtime-main.js": "/ffa-happy/static/js/runtime-main.efb7d985.js",
+    "static/css/2.c1e924b1.chunk.css": "/ffa-happy/static/css/2.c1e924b1.chunk.css",
+    "static/js/2.58db0eb9.chunk.js": "/ffa-happy/static/js/2.58db0eb9.chunk.js",
+    "static/js/3.79e72319.chunk.js": "/ffa-happy/static/js/3.79e72319.chunk.js",
     "index.html": "/ffa-happy/index.html",
-    "static/js/2.1138bdb3.chunk.js.LICENSE.txt": "/ffa-happy/static/js/2.1138bdb3.chunk.js.LICENSE.txt"
+    "static/js/2.58db0eb9.chunk.js.LICENSE.txt": "/ffa-happy/static/js/2.58db0eb9.chunk.js.LICENSE.txt",
+    "static/media/birthday.6b894f31.jpg": "/ffa-happy/static/media/birthday.6b894f31.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.71eacfba.js",
-    "static/js/2.1138bdb3.chunk.js",
-    "static/css/main.1ec13702.chunk.css",
-    "static/js/main.05e30862.chunk.js"
+    "static/js/runtime-main.efb7d985.js",
+    "static/css/2.c1e924b1.chunk.css",
+    "static/js/2.58db0eb9.chunk.js",
+    "static/css/main.edc43473.chunk.css",
+    "static/js/main.881d41eb.chunk.js"
   ]
 }
