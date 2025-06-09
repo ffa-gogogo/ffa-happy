@@ -2,7 +2,7 @@ import "./init.js";
 import React from "react";
 import { createRoot } from "react-dom/client";
 import reportWebVitals from "./reportWebVitals";
-import { BrowserRouter as Router } from "react-router-dom";
+import { HashRouter as Router } from "react-router-dom";
 import { ConfigProvider } from "antd";
 import AppRouter from "./router";
 import "moment/locale/zh-cn";
@@ -11,9 +11,7 @@ import Helmet from "react-helmet";
 
 import "./index.less";
 
-const container: Element | DocumentFragment = document.getElementById(
-  "root"
-) as HTMLElement;
+const container: Element | DocumentFragment = document.getElementById("root") as HTMLElement;
 const root = createRoot(container);
 
 root.render(
