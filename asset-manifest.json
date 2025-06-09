@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ffa-gogogo/ffa-happy/static/css/main.1ec13702.chunk.css",
+    "main.js": "/ffa-gogogo/ffa-happy/static/js/main.af7f2abe.chunk.js",
+    "runtime-main.js": "/ffa-gogogo/ffa-happy/static/js/runtime-main.a365062d.js",
+    "static/js/2.66ba6b51.chunk.js": "/ffa-gogogo/ffa-happy/static/js/2.66ba6b51.chunk.js",
+    "static/js/3.3549a5bd.chunk.js": "/ffa-gogogo/ffa-happy/static/js/3.3549a5bd.chunk.js",
+    "index.html": "/ffa-gogogo/ffa-happy/index.html",
+    "static/js/2.66ba6b51.chunk.js.LICENSE.txt": "/ffa-gogogo/ffa-happy/static/js/2.66ba6b51.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a365062d.js",
+    "static/js/2.66ba6b51.chunk.js",
+    "static/css/main.1ec13702.chunk.css",
+    "static/js/main.af7f2abe.chunk.js"
+  ]
+}
